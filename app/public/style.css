@@ -1,0 +1,22 @@
+body {
+    background-image: url("https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5Ny84NzQvb3JpZ2luYWwvbG9uZWx5LW1hbi1zaHV0dGVyc3RvY2suanBn");
+}
+
+.jumbotron {
+    background-color: grey;
+    
+}
+
+h1 {
+    color: black;
+    height: 100px;
+}
+
+h3 {
+    color: red;
+}
+
+.btn  {
+    background-color: black;
+    color: whitesmoke;
+}
